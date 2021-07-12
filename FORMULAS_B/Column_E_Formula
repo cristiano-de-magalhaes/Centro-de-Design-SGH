@@ -1,0 +1,10 @@
+={"ANO";
+        ARRAYFORMULA(
+                   IF(ISBLANK(C2:C);
+                                    "";
+                                    TEXT(C2:C;
+                                         "yyyy"
+                                         )
+                      )
+                     )
+  }
