@@ -1,0 +1,12 @@
+={CONCAT('Sheet1'!A1;"");
+                         'Sheet1'!A2:A;
+                         'Sheet2'!A2:A;
+                         'Sheet3'!A2:A;
+                         'Sheet4'!A2:A;
+                         'Sheet5'!A2:A;
+                         'Sheet6'!A2:A;
+                         'Sheet7'!A2:A;
+                         'Sheet8'!A2:A;
+                         'Sheet9'!A2:A;
+                         'Sheet10'!A2:A
+  }
