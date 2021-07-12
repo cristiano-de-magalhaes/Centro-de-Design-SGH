@@ -1,0 +1,10 @@
+=ArrayFormula(
+              IF(A1:A = "";
+                           "";
+                           SPLIT(F1:F;
+                                      " / ";
+                                      FALSE;
+                                      TRUE
+                                 )
+                 )
+              )
