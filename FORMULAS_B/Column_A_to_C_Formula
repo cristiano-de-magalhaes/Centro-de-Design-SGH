@@ -10,3 +10,4 @@
                          'Sheet9'!A2:A;
                          'Sheet10'!A2:A
   }
+# // For Column B and C, change column on formulas' lines as well.
