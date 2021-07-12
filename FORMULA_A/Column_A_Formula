@@ -1,0 +1,7 @@
+={"Employee";ARRAYFORMULA(
+                          IF(B2:B="";
+                                  "";
+                                  "Employee A"
+                             )
+                          )
+  }
