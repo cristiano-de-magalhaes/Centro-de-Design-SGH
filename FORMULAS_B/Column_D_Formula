@@ -1,0 +1,10 @@
+={"MÊS";
+        ARRAYFORMULA(
+                   IF(ISBLANK(B2:B);
+                                    "";
+                                    TEXT(C2:C;
+                                         "mm - mmm"
+                                         )
+                      )
+                     )
+  }
